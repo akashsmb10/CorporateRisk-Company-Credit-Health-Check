@@ -31,7 +31,7 @@ A credit analyst reviewing a corporate borrower needs to answer four questions q
 CorporateRisk structures that review, shows every number behind the conclusion, flags data gaps instead
 of hiding them, and tests how the picture changes under stress.
 
-## 2. Relevance to KPMG Financial Risk Management
+## 2. Financial Risk Management
 * **Corporate credit risk:** the ratio-based financial-risk assessment that underlies bank credit appraisal
   and internal rating models.
 * **Financial modelling:** statement-level stress testing that recomputes EBIT, profit, tax and cash flows
