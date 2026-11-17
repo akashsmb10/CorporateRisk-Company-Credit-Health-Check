@@ -19,7 +19,7 @@ Results are presented in a 7-page Streamlit dashboard, a PDF credit assessment a
 
 ![Executive overview - InterGlobe Aviation, FY2026](reports/figures/dashboard_overview.png)
 
-*InterGlobe Aviation, FY2026 - executive overview in dark mode.*
+*InterGlobe Aviation, FY2026 - executive overview.*
 
 ## 1. Business objective
 A credit analyst reviewing a corporate borrower needs to answer four questions quickly and transparently:
