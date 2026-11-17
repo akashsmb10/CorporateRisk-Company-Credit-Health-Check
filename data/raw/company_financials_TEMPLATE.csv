@@ -1,0 +1,7 @@
+# TEMPLATE for REAL company data. Copy this file to company_financials.csv in the same folder,
+# The commented example row at the bottom shows the format. Add one row per company per fiscal year.
+# Rules: one currency and one unit per company (e.g. INR crore); never mix standalone and consolidated;
+# capital_expenditure as a POSITIVE number; leave a cell EMPTY if a figure is not reported (do not type 0).
+# data_type must be REAL. Record every source in data/sources.csv. See docs/data_sources.md.
+company,sector,fiscal_year,fiscal_year_end,statement_basis,currency,units,data_type,current_assets,current_liabilities,cash_and_equivalents,inventory,total_assets,total_liabilities,total_equity,short_term_borrowings,long_term_borrowings,retained_earnings,revenue,ebitda,depreciation_amortisation,ebit,interest_expense,profit_before_tax,net_profit,operating_cash_flow,capital_expenditure,market_capitalisation
+# Example Company Ltd,Industrial Manufacturing,2025,2025-03-31,consolidated,INR,crore,REAL,,,,,,,,,,,,,,,,,,,,

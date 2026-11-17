@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": ["${workspaceFolder}/src", "${workspaceFolder}/dashboard", "${workspaceFolder}/tests"],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": ["tests"],
+    "python.testing.cwd": "${workspaceFolder}",
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}\\src",
+        "PYTHONUTF8": "1"
+    },
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "files.exclude": {"**/__pycache__": true, "**/.pytest_cache": true, "**/*.egg-info": true},
+    "files.eol": "\n",
+    "[bat]": {"files.eol": "\r\n"}
+}
