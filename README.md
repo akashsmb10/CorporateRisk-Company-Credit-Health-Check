@@ -1,4 +1,5 @@
 # CorporateRisk — Company Credit Health Check
+**Live demo:** https://corporaterisk-credit-health.streamlit.app  (Streamlit Community Cloud; may take ~30 s to wake up)
 
 An educational corporate credit-analysis toolkit. It reads a company's balance sheet, income statement and
 cash-flow statement and then:
